@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create Nested Folders
-        run: mkdir -p layouts/partials/third_party_js/
+        run: mkdir -p layouts/partials/third_party_js && cp -R test layouts/partials/third_party_js
+          ls layouts/partials/third_party_js
         
       - name: Checkout source
         uses: actions/checkout@v3
