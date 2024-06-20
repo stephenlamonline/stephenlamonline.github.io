@@ -1,0 +1,3 @@
+[submodule "themes/terminal-hugo-theme"]
+	path = themes/terminal-hugo-theme
+	url = https://github.com/techbarrack/terminal-hugo-theme.git

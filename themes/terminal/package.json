@@ -8,7 +8,7 @@
     "prod": "npx tailwindcss -i assets/css/tailwind/base.css -o assets/css/tailwind.css"
   },
   "keywords": [],
-  "author": "Stephen Lam",
+  "author": "Nayan Seth",
   "license": "ISC",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.12",
