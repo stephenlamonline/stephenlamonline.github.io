@@ -12,6 +12,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Create built-site directory
+        run: mkdir ${GITHUB_WORKSPACE}/built-site
+
       - name: Deploy
         if: github.ref == 'refs/heads/main'
         run: |
