@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Stephen Lam Online</title>
-    <link>https://mywebsite.com/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on Stephen Lam Online</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mywebsite.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Mar 2024 19:25:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nayan Seth</title>
+      <link>http://localhost:1313/authors/nayan-seth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/nayan-seth/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Stephen Lam</title>
-      <link>https://mywebsite.com/authors/stephen-lam/</link>
+      <link>http://localhost:1313/authors/stephen-lam/</link>
       <pubDate>Thu, 28 Mar 2024 15:00:00 +0000</pubDate>
-      <guid>https://mywebsite.com/authors/stephen-lam/</guid>
+      <guid>http://localhost:1313/authors/stephen-lam/</guid>
       <description></description>
     </item>
   </channel>
