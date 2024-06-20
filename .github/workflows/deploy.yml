@@ -9,7 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Create Nested Folders
+      - name: Create Folders
         run: mkdir -p layouts/partials/third_party_js && cp -R test layouts/partials/third_party_js
           ls layouts/partials/third_party_js
         
