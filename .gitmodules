@@ -1,3 +1,6 @@
 [submodule "themes/terminal-hugo-theme"]
 	path = themes/terminal-hugo-theme
 	url = https://github.com/techbarrack/terminal-hugo-theme.git
+[submodule "layouts/partials/third_party_js/githubtest"]
+	path = layouts/partials/third_party_js/githubtest
+	url = https://github.com/stephenlamonline/githubtest.git
