@@ -12,15 +12,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Debug
-        run: |
-          pwd
-          ls -la
-
       - name: Deploy
         if: github.ref == 'refs/heads/main'
         run: |
-          cd /
+          cd /home/runner/work/stephenlamonline.github.io/stephenlamonline.github.io
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
           git add .
