@@ -1,4 +1,5 @@
-name: Publish to GH Pages
+name: Deploy website
+
 on:
   push:
     branches:
@@ -7,22 +8,12 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-
-      - name: Create built-site directory
-        run: mkdir ${GITHUB_WORKSPACE}/built-site
-
+      - uses: actions/checkout@v3
       - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
-        run: |
-          cd /home/runner/work/stephenlamonline.github.io/stephenlamonline.github.io
-          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
-          cd ${GITHUB_WORKSPACE}/built-site
-          git add .
-          git config user.name 'stephenlam'
-          git config user.email 'stephenlamonline@gmail.com'
-          git commit -m 'Updated site'
-          git push
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./src # deploy src folder
