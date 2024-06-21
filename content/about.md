@@ -8,19 +8,22 @@ url: "/about.html"
 ---
 
 ## Hello, I'm Stephen 👋
-I am a passionate and creative software engineer with a strong background in developing innovative software solutions. My journey in the world of technology began at a young age when I discovered my love for coding. Since then, I have honed my skills and expertise to become a proficient developer.
 
-## My Expertise
-I specialize in building robust and scalable web applications using modern technologies such as JavaScript, React, and Node.js. I have experience working with both front-end and back-end technologies, allowing me to develop full-stack solutions that meet the needs of my clients.
 
-## My Approach
-I believe in the power of continuous learning and strive to stay updated with the latest trends and technologies in the field of software development. I am a strong advocate for clean and efficient code, and I always aim to deliver high-quality solutions that exceed expectations.
+I am a person with heavy procrastination symptoms, poor self-control, and a tendency to be lazy and easily satisfied. However, contrary to what my personality might suggest, I am not a 無藥可救 (hopeless) person. In fact, many of my relatives, friends, and even my girlfriend consider me to be excellent.
 
-## My Projects
-Over the years, I have worked on a variety of projects ranging from small-scale applications to large enterprise solutions. One of my most notable projects includes developing a real-time chat application using Socket.io, which has been widely used by businesses to improve communication among team members.
+My life was relatively smooth for the first 19 years. Under pressure and with clear guidelines, I was able to perform well and often outcompete others in the given curriculum. Skills and knowledge were handed to me, and I learned them quickly, albeit passively.
 
-## My Goals
-In the future, I aspire to further expand my knowledge and expertise in software development by exploring new technologies and taking on challenging projects. I am committed to continuous improvement and look forward to contributing to the ever-evolving field of technology.
+Everything changed when I went to college. Suddenly, no one was forcing me to do anything; there were no heavy academic workloads and no packed schedules. I gained something I had never imagined—complete freedom. I could choose whatever I wanted: what to eat, when to sleep, what to play, which courses to take, and so on.
 
-## Let's Connect
-I am always open to new opportunities and collaborations. Whether you're looking to hire a developer or simply want to chat about technology, feel free to reach out to me. I look forward to connecting with you!
+This newfound freedom made me panic. Unlike before, when I had a clear, designed path—go to a better high school, then get into a better university—I now had too many choices. Which field in my major did I want to focus on? What jobs did I want to pursue? Did I want to continue in academia and further my studies? If so, where should I go, and which field should I specialize in?
+
+These questions constantly plagued my mind. Unlike math exams, there were no model answers for these life decisions. To be honest, I suffer from a degree of 選擇困難症 (decision paralysis). Faced with so many choices, I became overwhelmed and started procrastinating.
+
+Fortunately, things have been getting better recently. I have slowly stepped out of my comfort zone and tried various activities: boxing, part-time jobs, internships, and...
+
+**starting this blog**.
+
+I had attempted blogging a few times before, but I was too lazy to maintain it, and the tools I used were more complicated than the ones I am using now. This time, I hope to succeed.
+
+In this blog, I intend to document my technical notes, university-related issues, thoughts about the world, and interesting things around me. I would be really happy if my content can inspire those who read it.

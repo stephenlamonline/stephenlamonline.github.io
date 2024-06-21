@@ -48,18 +48,19 @@ outputs:
     - RSS
     - sitemap.xml
 params:
+  favicon: false
   social:
     - name: github
-      url: https://github.com/myusername
+      url: https://github.com/stephenlamonline
     - name: x
-      url: https://x.com/myusername
+      url: https://x.com/stephenlamonline
     - name: youtube
-      url: https://youtube.com/myusername
+      url: https://youtube.com/stephenlamonline
     - name: linkedin
-      url: https://linkedin.com/in/myusername
+      url: https://linkedin.com/in/stephenlamonline
     - name: "buy me a coffee"
-      url: https://www.buymeacoffee.com/myusername
-  disqus: "mydisquscode"
+      url: https://www.buymeacoffee.com/stephenlamonline
+  disqus: "//https-stephenlamonline-github-io.disqus.com/count.js"
 
 module:
   hugoVersion:
