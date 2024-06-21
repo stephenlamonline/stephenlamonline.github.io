@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-06-20T12:13:08+08:00</lastmod>
+    <lastmod>2024-06-21T17:22:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024/06/20/hello/</loc>
-    <lastmod>2024-06-20T12:13:08+08:00</lastmod>
+    <loc>http://localhost:1313/blog/2024/06/21/hello-blogging/</loc>
+    <lastmod>2024-06-21T17:22:41+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/none/</loc>
-    <lastmod>2024-06-20T12:13:08+08:00</lastmod>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-06-21T17:22:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/self-improvement/</loc>
+    <lastmod>2024-06-21T17:22:41+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about.html</loc>
     <lastmod>2024-03-28T15:00:00+00:00</lastmod>
@@ -25,14 +28,5 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-03-28T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/2024/02/28/feb-post-1/</loc>
-    <lastmod>2024-02-28T23:09:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pagination/</loc>
-    <lastmod>2024-02-28T23:09:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/testing/</loc>
-    <lastmod>2024-02-28T23:09:47+05:30</lastmod>
   </url>
 </urlset>
