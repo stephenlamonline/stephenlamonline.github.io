@@ -1,6 +1,6 @@
-baseURL: 'https://mywebsite.com/'
+baseURL: 'https://stephenlamonline.io/'
 languageCode: 'en-us'
-title: 'My Website'
+title: 'Stephenlamonline'
 theme: 'terminal'
 timeZone: "Asia/Kolkata"
 menus:
